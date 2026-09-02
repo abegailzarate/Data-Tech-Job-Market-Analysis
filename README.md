@@ -14,7 +14,7 @@ The interactive Excel dashboard provides insights into the job market by allowin
 
 ## Key Analysis Areas
 
-* Job demand by position and country
+* Job demand by position 
 * Median salary by job position
 * Employment type distribution
 * Remote vs. on-site work arrangements
@@ -36,6 +36,8 @@ The dataset contains information related to:
 * Countries
 * Salaries
 * Employment Types
+* Companies
+* Degree Requirements
 * Work Arrangements
 
 ## Dashboard Components
@@ -47,10 +49,8 @@ The dashboard includes:
 * Median Salary
 * Remote Work Percentage
 * Jobs by Position
-* Jobs by Country
 * Median Salary by Position
 * Top Companies
-* Top Data Skills
 * Remote vs. On-site Jobs
 * Degree Requirements
 
@@ -61,4 +61,9 @@ The dashboard includes:
 * Formulas & Functions
 * Data Validation
 * Charts
+* Statistical Analysis
 * Dashboard Development
+
+# Dashboard Build #
+## Data Validation
+
