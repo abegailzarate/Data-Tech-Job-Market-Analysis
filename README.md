@@ -23,15 +23,14 @@ An interactive dashboard was created using Microsoft Excel to visualize key find
 
 1. **Data Analysis:**
    Applied Excel formulas and functions to analyze and filter the dataset, including:
-
-  * IF
-  * COUNTIFS
-  * MEDIAN
-  * ISNUMBER
-  * NOT
-  * SEARCH
-  * UNIQUE
-  * Sorting & Filtering
+   - IF
+   - COUNTIFS
+   - MEDIAN
+   - ISNUMBER
+   - NOT
+   - SEARCH
+   - UNIQUE
+   - Sorting & Filtering
   
 2. **Data Visualization:**
    - Key metrics & charts to present key findings
