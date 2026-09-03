@@ -2,68 +2,78 @@
 
 ## Project Dashboard
 
-<img width="800" height="318" alt="Data & Tech Job Market Analysis Dashboard" src="https://github.com/user-attachments/assets/031ff965-0a38-4ba6-99f9-affcd078f22e" />
+<img width="800" height="312" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/edf0efae-b441-4a0a-a612-ce52621d0ca7" />
+
 
 ## Project Overview
 
-This project analyzes trends in the **Data and Technology job market** to identify patterns in job demand, salaries, employment types, work arrangements, and geographic distribution.
+This project analyzes trends in the Data and Technology job market to identify patterns in job demand, salaries, employment types, work arrangements, hiring companies.
 
-The interactive Excel dashboard provides insights into the job market by allowing users to explore data based on **job position, country, employment type, and work arrangement**.
-
+An interactive dashboard was created using Microsoft Excel to visualize key findings and makes the analysis easier to explore and understand.
 **[View the Interactive Dashboard](https://1drv.ms/x/c/bdbd7a126eba8b06/IQCqGpsJQZ3sSImPRQ-TiJwvAY6kdhZ4qgynLBAqo0bC8xs?e=ysqmdd)**
 
-## Key Analysis Areas
+## Objectives
+* Identify the job positions with the highest demand.
+* Determine the most common employment types.
+* Analyze the distribution of remote and on-site work arrangements.
+* Analyze salary trends across different job positions based on selected filters.
+* Identify the companies with the highest number of job postings.
 
-* Job demand by position 
-* Median salary by job position
-* Employment type distribution
-* Remote vs. on-site work arrangements
-* Job market trends across different locations
+## Analysis Process
 
-## Excel Skills & Techniques
+1. **Data Analysis:**
+   Applied Excel formulas and functions to analyze and filter the dataset, including:
 
-* **Data Analysis:** Formulas & Functions
-* **Data Visualization:** Charts & Interactive Dashboard
-* **Data Validation:** Interactive filtering and selection
-* **Statistical Analysis:** Median salary analysis
-* **Dashboard Design:** KPI cards and interactive visualizations
-
-## Dataset
-
-The dataset contains information related to:
-
-* Job Titles
-* Countries
-* Salaries
-* Employment Types
-* Companies
-* Degree Requirements
-* Work Arrangements
+  *IF
+  *COUNTIFS
+  *MEDIAN
+  *ISNUMBER
+  *NOT
+  *SEARCH
+  *UNIQUE
+  *Sorting & Filtering
+  
+2. **Data Visualization:**
+   - Key metrics & charts to present key findings
+   - Developed an Interactive Dashboard
+   - Added data validation filters for job position, country, employment types and work arrangements.
 
 ## Dashboard Components
 
-The dashboard includes:
+The dashboard includes the following:
 
-* Total Job Postings
-* Total Companies
-* Median Salary
-* Remote Work Percentage
-* Jobs by Position
-* Median Salary by Position
-* Top Companies
-* Remote vs. On-site Jobs
-* Degree Requirements
+### Filters
+* Job positions
+* Country
+* Employment type
+* Work arrangement
+
+### Key Metrics
+* Total job Positions
+* Total companies
+* Median salary
+* Work arrangement Percentage
+
+### Visualizations
+* Jobs by position
+* Median salary by position
+* Top hiring companies
+* Employment types
+* Remote vs. on-site jobs
+* Degree requirements
 
 ## Tools Used
 
 **Microsoft Excel**
 
 * Formulas & Functions
-* Data Validation
-* Charts
-* Statistical Analysis
-* Dashboard Development
+* Data validation
+* Charts & Visualizations
+* Statistical analysis
+* Dashboard development
+* Data filtering & sorting
 
-# Dashboard Build #
-## Data Validation
+# Dashboard Preview
+
+
 
