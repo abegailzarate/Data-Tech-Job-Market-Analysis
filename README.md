@@ -126,6 +126,20 @@ The dashboard includes the following:
 * Dashboard development
 * Data filtering & sorting
 
+## Key Insights
+
+Based on the analyzed job postings and the selected dashboard filters, the following insights were identified:
+
+* **Job Demand:** Data Analyst had the highest number of job postings among the analyzed positions, followed by Data Engineer and Data Scientist.
+* **Work Arrangement:** Under the selected filters, **92% of job postings were on-site**, while **8% were remote**.
+* **Salary:** Median salaries varied across job positions. Senior Data Analyst had the highest median salary at approximately **$111,175**, followed by Data Engineer at **$96,773**.
+* **Employment Type:** Full-time positions were the most common employment type in the dataset.
+* **Hiring Companies:** The dashboard shows that job postings were distributed across many companies, with some companies having a higher number of postings than others.
+* **Degree Requirements:** Job postings varied in their degree requirements, with opportunities available both for roles requiring a degree and roles without a stated degree requirement.
+
+These insights provide an overview of job demand, salary levels, work arrangements, employment types, hiring companies, and educational requirements within the Data and Technology job market.
+
+
 
 
 
