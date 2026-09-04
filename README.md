@@ -9,8 +9,9 @@
 
 This project analyzes trends in the Data and Technology job market to identify patterns in job demand, salaries, employment types, work arrangements, hiring companies.
 
-An interactive dashboard was developed using Microsoft Excel to visualize key findings and makes the analysis easier to explore and understand.
-**[View the Interactive Dashboard](https://1drv.ms/x/c/bdbd7a126eba8b06/IQCqGpsJQZ3sSImPRQ-TiJwvAY6kdhZ4qgynLBAqo0bC8xs?e=ysqmdd)**
+An interactive dashboard was developed using Microsoft Excel to visualize key findings and makes the analysis easier to explore and understand.    
+
+ **[View the Interactive Dashboard](https://1drv.ms/x/c/bdbd7a126eba8b06/IQCqGpsJQZ3sSImPRQ-TiJwvAY6kdhZ4qgynLBAqo0bC8xs?e=ysqmdd)**
 
 ## Objectives
 * Identify the job positions with the highest demand.
