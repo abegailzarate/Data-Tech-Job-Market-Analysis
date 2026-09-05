@@ -84,14 +84,14 @@ The dashboard displays four key metrics:
 <img width="1065" height="431" alt="Screenshot 2026-09-04 201228" src="https://github.com/user-attachments/assets/6d614776-ce2b-49b6-bd2a-3cdb83352655" />
 
 * **Job Demand by Job Position.**
-  - Used COUNTIFS to calculate the number of job posting per job position
-  - Applied IF logic to dynamically highlight the selected job position.
-  - Used a column chart to compare job demand across positions.
+   * Used COUNTIFS to calculate the number of job posting per job position
+   * Applied IF logic to dynamically highlight the selected job position.
+   * Used a column chart to compare job demand across positions.
 
  * **Employment Type**
-  * Used UNIQUE, SORT, and FILTER to generate and organize employment type categories.
-  * Used SEARCH and ISNUMBER to identify employment types within job postings.
-  * Visualized the distribution using a bar chart.
+   * Used UNIQUE, SORT, and FILTER to generate and organize employment type categories.
+   * Used SEARCH and ISNUMBER to identify employment types within job postings.
+   * Visualized the distribution using a bar chart.
 
 * **Job Position by Salary**
    * Used filtered MEDIAN calculations to determine the median salary for each position.
@@ -119,12 +119,23 @@ The dashboard displays four key metrics:
 
 Based on the analyzed job postings and the selected dashboard filters, the following insights were identified:
 
-* **Job Demand:** Data Analyst had the highest number of job postings among the analyzed positions, followed by Data Engineer and Data Scientist.
-* **Work Arrangement:** Under the selected filters, **92% of job postings were on-site**, while **8% were remote**.
-* **Salary:** Median salaries varied across job positions. Senior Data Analyst had the highest median salary at approximately **₱111,175**, followed by Data Engineer at **₱96,773**.
-* **Employment Type:** Full-time positions were the most common employment type in the dataset.
-* **Hiring Companies:** The dashboard shows that job postings were distributed across many companies, with some companies having a higher number of postings than others.
-* **Degree Requirements:** Job postings varied in their degree requirements, with opportunities available both for roles requiring a degree and roles without a stated degree requirement.
+* **Job Demand:**
+  Data Analyst had the highest number of job postings among the analyzed positions, followed by Data Engineer and Data Scientist.
+  
+* **Work Arrangement:**
+  Under the selected filters, **92% of job postings were on-site**, while **8% were remote**.
+  
+* **Salary:**
+  Median salaries varied across job positions. Senior Data Analyst had the highest median salary at approximately **₱111,175**, followed by Data Engineer at **₱96,773**.
+  
+* **Employment Type:**
+  Full-time positions were the most common employment type in the dataset.
+  
+* **Hiring Companies:**
+  The dashboard shows that job postings were distributed across many companies, with some companies having a higher number of postings than others.
+  
+* **Degree Requirements:**
+  Job postings varied in their degree requirements, with opportunities available both for roles requiring a degree and roles without a stated degree requirement.
 
 These insights provide an overview of job demand, salary levels, work arrangements, employment types, hiring companies, and educational requirements within the Data and Technology job market.
 
